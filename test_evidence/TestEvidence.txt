@@ -1,0 +1,5 @@
+01-Get Genesis block.png
+02-Request Validation for Address.png
+03-Sing with Bitcoin Core Wallet.png
+04-Submit star.png (Executed twice, only one captured)
+05-Get all stars for a given address.png (Shows 2 stars for the two submits)
